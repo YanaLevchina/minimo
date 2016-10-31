@@ -1,0 +1,166 @@
+body{
+  font-family: sans-serif;
+}
+  .mainclearfix,
+  .aside,
+  .one,
+  .footer {
+    border: 10px;
+  }
+  .img1 {
+    margin-bottom: 30px;
+  }
+  .aside {
+
+    width: calc(30% - 10px);
+    min-height: 300px;
+    float: right;
+
+  }
+.main {
+  width: 80%;
+  margin: 30px auto;
+  font-family: sans-serif;
+
+}
+.minimo {
+  font:20pt Inconsolata;
+}
+.header {
+  font-family:"Inconsolata bold";
+  width: 90%;
+  margin: 30px auto;
+  font-family: sans-serif;
+}
+.footer {
+  height: 70 px;
+  width: 90%;
+  margin: 30px auto;
+  font-family: sans-serif;
+}
+.one {
+  display: inline-block;
+  width: 65%;
+    margin: 10px;
+    border: 10px;
+}
+.firstpart a {
+  color: silver;
+  
+}
+h4 {
+  color: silver;
+}
+
+.comment {
+  color: silver;
+  font-family:"Inconsolata";
+
+}
+
+.icon1 a{
+  text-decoration: none;
+  margin-right: 15px;
+}
+.kursiv {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 12pt;
+  font-style: italic;
+  font-family:"Inconsolata bold";
+}
+.twotext {
+  font-size: 12pt;
+  font-family:"Inconsolata bold";
+}
+.onetext {
+    font-family:"Inconsolata bold";
+    font-size: 12pt;
+
+}
+h1 {
+  font-family:"Inconsolata bold";
+  font-size: 24pt;
+}
+
+.headerlinks a {
+  text-decoration: none;
+  color: gray;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: right;
+  font-size: 14pt;
+  font-family: "Inconsolata bold";
+}
+h2 {
+  font-family:"Inconsolata bold";
+  font-size: 24pt;
+}
+.threetext {
+  font-family:"Inconsolata bold";
+  font-size: 12pt;
+}
+.share {
+  color: silver;
+  margin-left: 53%;
+  height: 100%;
+
+  line-height: 70px;
+}
+.share img {
+  color: inherit;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.share a {
+  text-decoration: none;
+
+  text-align: center;
+  width: 70%;
+  height: 100%;
+  line-height: 70px;
+
+}
+.footer {
+  width: 97%;
+  height: 70px;
+  background-image: url(../images/footer.jpg);
+  font-family:"Inconsolata bold";
+}
+.terms
+{
+ float: left;
+ width: 40%;
+ line-height: 70px;
+ text-align: left;
+ margin-left: 20px;
+}
+.terms a {
+  margin-right: 20px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: inherit;
+}
+.follow {
+  width: 40%;
+
+  height: 100%;
+  margin-left: 76%;
+  line-height: 70px;
+}
+.follow a {
+  text-decoration: none;
+}
+.follow img {
+  color: inherit;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+ul {
+	font-family:"Inconsolata bold";
+}
+
+
+
+
